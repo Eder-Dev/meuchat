@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "agendamento-tcc-359222",
+  "private_key_id": "1bb2386e7534c92497a0aba89e642db7093f3be1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCVWw8HVyACjycR\nperhRdzJKk78S9IR9gcd22toFVna6RkAKm0/LJNp7zc/FrGzrFX1CNnEBuELVxyY\n2tft7glFGUGCSOF2Avqf1QFvcrZPSZ6ogXJKh6rBwAVnSaJKM76uMXcQJv5qa/9D\nWQuZ00daKwKL9aQXVGlmVTE9/2vB8vsvhHWMcs/X1addmjkJPDCPR0JfYQABTvCP\n26r5bz7gWTEWMgp/ZhmRWU5IG55htb275+vWke9OxvaG3aU5uUtqkNR7k4QCvnyR\nEi597uawNs3yq0SFDgqDs1UsmuSnT6Yv+DP/i+/jjOTh/yCEZ6xwZe+IEppHQig/\no8vgsOANAgMBAAECggEABMFWWug5TsONMvi6n/YCt81BoF2Z9bRE2TyXcJlUwqLE\ncZbS4shHSuqQx9DakwskCHjB6tsXjAN3wl5zXLIFDbQRESDDZue6NYpesOmbfYOX\n9NWm6dG5zCXni3iSyB8veBR/QzPOoAefZAmgKYNfz0ffx/d9RDiN4NzKWXw59iiQ\nbrnZm4RFl7D7Lsmqy+pfu+wWHEEY0FkrcyzKBm+OztSUSd9Gpj+KyWu43RCX3ZIz\nA7xYNocwpjBlMSWKQ8Lk5MeganwU6Fs0s0JOQNU9EqmGVc5dvlmoJZzVIijA3jrl\nT6q99NyfPmVj/0kRN9vh3O0l8URCFOWyFcXQa+wJwQKBgQDMNwwO6Ftah/pQATai\n3Zw2f7ztmY2bfxmxlqFEr6+/CQiP2Ed49Kcsl04cwSNnWWgpc02JZnGg8L0vfZ6J\nX0lOGaqSWQnolg/ZVXkPc+TkNitVd2QaOjOsQ+FLfGu6cIE8kqj+uecNzvEt4Qna\n0hhPgNSJU3y2JZelXv7+z6mGQQKBgQC7Orp3/1CwdmxQM6Tl0Nr2IQZqnEUtjQRO\nyew7i121BRTYb+9E2TEfwQCtzmZttgBwQHYoIri5l3DXHQhB5qAgMxgGg9mvVAIC\nAPug41owIQrt1/7iotp4gzMQh3SNW9YLe/O35vhPA/pKSk7IivIAHVwwXaQhpAow\nqNpu2oTezQKBgHUdqLOv/Bw6WYqid4QF1f3HWkFlS7n+tWyMd2Zd30uO0bM1FSBA\nJtPC3lBNT5GIy9zhvHjtIINtLQJcZ5xe4jqBK7qMh8s0rFg21ZvQGlfq3QVB2E3W\nTSYhM8bHzzx4IxXrAjI7yU+4+8YVBkLRNJH7z2gGUkJf4s07YsAdthpBAoGAcYXN\ndF7ZVPWo/QQjUrlNWnlxw4iXJWRgnUkvtHbvTYgUOJu+Lzel4oQK3lfMoW7+WxGq\n0vEiol1hrPzMefDVXFC+m4ysm/NK+F4SNF5F2/LdBpO110M5RmL+vmHzWJa7dOEm\nSHaCTp6xzwO5Oz2MOGeU8zqD/2XQS+rF7vsOH20CgYAgZr9XW+7ALmMV6EFZydHv\nmfdpYww9h+g5AD8DJEhQ9XJiHz25/oeJSZfv6ybmvkEvy0lBG6DptrrXUyt5kVmP\n5XS2JUpTUcAdym/eEaDzUKSoeMCULgmFIO7tjUAzTabeSazu6tcKwtxUO+3M5zFw\nfzVAsTP5oYn+pTSzpBfQGA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "agendatcc@agendamento-tcc-359222.iam.gserviceaccount.com",
+  "client_id": "104918721867777631004",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/agendatcc%40agendamento-tcc-359222.iam.gserviceaccount.com"
+}
