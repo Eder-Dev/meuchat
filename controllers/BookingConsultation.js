@@ -22,12 +22,13 @@ module.exports = {
 	},
 
 	async create(req, res){		
-		const { cpf, numSUS, date, consultation } = req.body
+		const { name, cpf, numSUS, date, consultation } = req.body
 		console.log('Body - ', req.body)
 		cpf.replaceAll('.','').replaceAll('-','')
 		numSUS.replaceAll('.','').replaceAll('-','')
 
 		let doc = {
+			name,
 			cpf, 
 			numSUS, 
 			date, 
